@@ -1,0 +1,13 @@
+C:\Users\Fatih\source\repos\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.exe
+C:\Users\Fatih\source\repos\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.deps.json
+C:\Users\Fatih\source\repos\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.runtimeconfig.json
+C:\Users\Fatih\source\repos\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.dll
+C:\Users\Fatih\source\repos\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.pdb
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.dll
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.pdb
+C:\Users\Fatih\source\repos\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.genruntimeconfig.cache
